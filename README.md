@@ -3,6 +3,7 @@
 ## Table of content
 - [Overview](#Overview)
 - [Screenshot](#Screenshot)
+- [Links](#links)
 - [Build With](#Build-with)
 - [Author](#author)
 
@@ -17,6 +18,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 #### Mobile Design
 ![NFT Preview card component](./design/mobile-design.png)
+
+
+## Links
 
 - Solution URL: [Click Here](https://www.frontendmentor.io/solutions/single-price-grid-component-axMRKbw4CK)
 - Live Site URL: [Click Here](https://iammukeshmahato.github.io/nft-preview-card-component)
