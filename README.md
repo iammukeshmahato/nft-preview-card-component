@@ -22,7 +22,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Links
 
-- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/single-price-grid-component-axMRKbw4CK)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-html-and-css-owVJujYs59)
 - Live Site URL: [Click Here](https://iammukeshmahato.github.io/nft-preview-card-component)
 
 
